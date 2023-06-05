@@ -1,5 +1,5 @@
 # Fazenda Mater
 
-A Fazenda Mataer é fruto da consciência ecológica e do desenvolvimento sustentável de alimentos. A diversificação e, portanto, equilíbrio da atividade humana na terra leva à saudável construção de um sistema que permite a manutenção da flora e fauna e permanência do home sem impacto. Contudo, para isso é necessário o aumento da sua área sequestradora de carbono e implementação de madeira para uso comercial, mantendo a filosofia de uso ecológico e produtivo sem serem excludentes.
+A Fazenda Mater é fruto da consciência do valor da presevação da terra e do desenvolvimento sustentável de alimentos e produtos agrícolas. A diversificação e, portanto, o equilíbrio da atividade rural humana à saudável construção de um sistema que permite a manutenção da flora e fauna e a permanência do homem sem impactos nocivos. Contudo, para isso a Fazenda Mater precisa aumentar sua área sequestradora de carbono e implementar a silvicultura para uso comercial, mantendo a filosofia de uso ecológico e produtivo e não excludentes.
 
-## Doação
+##: Doação
